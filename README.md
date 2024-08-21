@@ -39,7 +39,7 @@ The analysis utilizes various techniques, including:
 To run the analysis:
 
 1. **Install Dependencies:** Ensure you have the necessary Python libraries installed. You can install them using `pip install pandas matplotlib seaborn scipy`.
-2. **Download Data:** Download the `Clan_and_Player_Details.csv` file.
+2. **Download Data:** Download the `player_details_clean.csv` file.
 3. **Run the Script:** Execute the Python script provided in this repository.
 
 ## Conclusion
