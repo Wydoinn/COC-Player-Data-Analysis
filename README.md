@@ -1,6 +1,6 @@
 # Clash of Clans Player Data Analysis
 
-![banner](https://github.com/user-attachments/assets/00231982-6c1e-4fd6-8d77-884b7647f9a4)
+![Banner](https://github.com/user-attachments/assets/2595bc7f-fa4e-4e30-b618-93cab6ba67b5)
 
 This project analyzes a dataset of Clash of Clans player and clan data to uncover insights into player behavior, performance, and clan dynamics. The analysis uses Python libraries like Pandas, Matplotlib, Seaborn, and SciPy to explore various aspects of the game, including:
 
